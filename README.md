@@ -1,7 +1,7 @@
 # LSH4K-MIPS
 Python Implemention of LSH family for K-Maximum Inner Product Search.
 
-**You can use it just call lsh_K_MIPS in mips_lsh.py **
+**You can use it just call lsh_K_MIPS in mips_lsh.py**
 
 This interface is based on [LSH_MIPS](https://github.com/jfpu/lsh_mips)
 
@@ -11,7 +11,7 @@ the changes is:
 2) more useful and easier to use, especially for K-MIPS
 3) sovle the problem about the test accuracy in lsh_tester.py
 
-                        liangzid,3,17,2020.
+---
 
 基于python实现的局部敏感哈希算法（LSH），应用于最大内积近邻搜索。
 
